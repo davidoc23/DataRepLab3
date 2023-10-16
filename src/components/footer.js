@@ -1,3 +1,4 @@
+// Defining a functional component named Footer
 function Footer() {
     return (
         <div>
@@ -6,4 +7,5 @@ function Footer() {
     );
 }
 
+// Exporting the Footer component to make it available for use in other parts of the application
 export default Footer;

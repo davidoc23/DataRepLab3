@@ -1,3 +1,4 @@
+// Defining a functional component named Content
 function Content() {
     return (
         <div>
@@ -6,4 +7,6 @@ function Content() {
         </div>
     );
 }
+
+// Exporting the Content component to make it available for use in other parts of the application
 export default Content;
